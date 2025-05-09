@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(214, 246, 214);
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    background-color: lightgreen;
+}
+
+.links{
+    padding-top: 20px;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+.btn2{
+    /* border: 2px solid red; */
+    margin-left: 20px;
+}
+
+.aside{
+    /* background-color:peachpuff; */
+}
+.form{
+    border: 2px solid snow;
+    width: 300px;
+    margin-left: 550px;
+    margin-top: 120px;
+    padding-left: 12px;
+    background-color: white;
+}
+
+.signup{
+    text-align: center;
+    font-family: sans-serif;
+    /* border: 1px solid red; */
+    margin-top: 25px;
+    padding-right: 30px;
+    font-size: 30px;
+}
+
+.info{
+    /* border: 2px solid red; */
+    padding-left: 20px;
+    color: grey;
+}
+.box{
+    width:270px;
+}
+
+.btn{
+    color: white;
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.quest{
+    /* border: 1px solid black; */
+    padding-left:25px;
+    font-family: serif;
+}
+
+.signin{
+    text-decoration: underline;
+}
